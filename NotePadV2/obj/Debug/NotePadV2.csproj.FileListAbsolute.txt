@@ -1,0 +1,33 @@
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.blank.resources
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.frmmain.resources
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\bin\Debug\NotePadV2.exe.config
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\bin\Debug\NotePadV2.exe
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\bin\Debug\NotePadV2.pdb
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.exe
+C:\Users\STUDENT\Desktop\Сызранов\NotePadV2\NotePadV2\obj\Debug\NotePadV2.pdb
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\bin\Debug\NotePadV2.exe.config
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\bin\Debug\NotePadV2.exe
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\bin\Debug\NotePadV2.pdb
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.csproj.AssemblyReference.cache
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.blank.resources
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.frmmain.resources
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.Properties.Resources.resources
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.csproj.GenerateResource.cache
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.csproj.CoreCompileInputs.cache
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.exe
+D:\ШАРАГА\Прикладное программирование\Практика 7 готовая\NotePadV2\obj\Debug\NotePadV2.pdb
+C:\Users\glucs\Downloads\NotePadV2\bin\Debug\NotePadV2.exe.config
+C:\Users\glucs\Downloads\NotePadV2\bin\Debug\NotePadV2.exe
+C:\Users\glucs\Downloads\NotePadV2\bin\Debug\NotePadV2.pdb
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.csproj.AssemblyReference.cache
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.blank.resources
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.frmmain.resources
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.Properties.Resources.resources
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.csproj.GenerateResource.cache
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.csproj.CoreCompileInputs.cache
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.exe
+C:\Users\glucs\Downloads\NotePadV2\obj\Debug\NotePadV2.pdb
